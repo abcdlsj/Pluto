@@ -1,9 +1,9 @@
 # Pluto
 
-A K/V Storage Engine Implementation Write By Golang.
+A K/V Storage Implementation Write By Golang.
 
-# Install
 # How To Use
+
 # References
 https://github.com/hashicorp/raft
 https://github.com/boltdb/bolt
