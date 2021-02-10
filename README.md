@@ -6,10 +6,4 @@ A K/V Storage Implementation With Golang.
 
 # References
 
-<https://github.com/hashicorp/raft>
-
-<https://github.com/boltdb/bolt>
-
-<https://github.com/hashicorp/raft-boltdb>
-
-<https://github.com/zergwangj/zergkv>
+<https://github.com/otoolep/hraftd>
